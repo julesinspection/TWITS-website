@@ -1,5 +1,6 @@
 # TWITs. "Лети навстречу к мечте вместе с TWITs." Единственный и потому лучший авиа-шеринг ©
 
+[Участвуем в конкурсе](https://idmit.ru/)
 ## ✅ Landing Page: 
 [Ссылка на лендинг](https://julesinspection.github.io/TWITS-website/)
 
